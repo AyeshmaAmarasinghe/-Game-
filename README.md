@@ -1,2 +1,2 @@
 # -Game-
-A mini project done by using Python tinker.
+A mini project done by using Python tkinter.
